@@ -21,3 +21,5 @@ To access this code you will need to have Visual Studio Code downloaded onto you
 This project can be used for anyone wanting a random password generator or for anyone wanting to use it as a base and add more code.
 
 # Contact
+# url: https://kellybombardieri.github.io/Stegosaurus/
+# GitHub repository: 
