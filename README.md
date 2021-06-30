@@ -22,4 +22,4 @@ This project can be used for anyone wanting a random password generator or for a
 
 # Contact
 # url: https://kellybombardieri.github.io/Stegosaurus/
-# GitHub repository: 
+# GitHub repository: https://github.com/kellybombardieri/Stegosaurus.git
